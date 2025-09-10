@@ -69,7 +69,7 @@ Apartment pricing in St. Petersburg is shaped primarily by **size, location, and
 
 ## 📂 Repository Structure
 - `project.ipynb` — full analysis notebook.  
-- `EN_README.md` — project description and results in English.
+- `README.md` — project description and results in English.
 - `RU_README.md` — project description and results in Russian.
 
 ---
